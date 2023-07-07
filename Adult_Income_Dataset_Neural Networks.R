@@ -1,14 +1,6 @@
-## Course: CSCI 59000 Data Science
-## Project: Mini Project 3
-## Student: Rekha Rajesh
-
 ##Data set source: https://www.kaggle.com/datasets/wenruliu/adult-income-dataset
-## Source: https://www.kaggle.com/code/yipfafa/r-income-prediction-with-knn-nn-decision-tree
+## Reference: https://www.kaggle.com/code/yipfafa/r-income-prediction-with-knn-nn-decision-tree
 
-
-# Set path where csv file is stored to read data set
-setwd("C:/Users/rekha/Desktop/Data Science/Mini Project 3")
-getwd()
 
 #===============================================================================================
 # 1. data cleaning 
