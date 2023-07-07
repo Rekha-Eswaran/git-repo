@@ -2,12 +2,7 @@
 ## Reference: https://www.kaggle.com/code/rohitamalnerkar/adult-dataset-income-prediction/notebook
 ## Reference: https://www.kaggle.com/code/esmaeil391/ibm-hr-analysis-with-90-3-acc-and-89-auc#New-Random-Forest
 
-# Set path where csv file is stored to read data set
-setwd("C:/Users/rekha/Desktop/Data Science/Mini Project 3")
-getwd()
-
 #==========================================================================
-
 # 1. data cleaning
 
 #install libraries
