@@ -1,7 +1,3 @@
-## Course: CSCI 59000 Data Science
-## Project: Mini Project 3
-## Student: Rekha Rajesh
-
 ##Data set source: https://www.kaggle.com/datasets/wenruliu/adult-income-dataset
 ## Reference: https://www.kaggle.com/code/rohitamalnerkar/adult-dataset-income-prediction/notebook
 ## Reference: https://www.kaggle.com/code/esmaeil391/ibm-hr-analysis-with-90-3-acc-and-89-auc#New-Random-Forest
