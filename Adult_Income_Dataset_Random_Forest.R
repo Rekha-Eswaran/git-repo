@@ -1,15 +1,7 @@
-## Course: CSCI 59000 Data Science
-## Project: Mini Project 3
-## Student: Rekha Rajesh
-
-####Data set source: https://www.kaggle.com/datasets/wenruliu/adult-income-dataset
+##Data set source: https://www.kaggle.com/datasets/wenruliu/adult-income-dataset
 ## Reference: https://www.kaggle.com/code/rohitamalnerkar/adult-dataset-income-prediction/notebook
 
-# Set path where csv file is stored to read data set
-setwd("C:/Users/rekha/Desktop/Data Science/Mini Project 3")
-getwd()
 #======================================================================================================================
-
 #install libraries
 install.packages("tidyverse")     
 library(tidyverse)
