@@ -1,4 +1,4 @@
-// Rekha Rajesh
+// Rekha
 //Sobel filter 3 * 3 with vertical and horizontal filters using unesco
 //Gx = horizontal filter to find vertical edges
 //Gy = vertical filter to find horizontal edges
